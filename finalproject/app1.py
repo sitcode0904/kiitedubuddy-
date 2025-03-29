@@ -21,7 +21,7 @@ def add_cors_headers(response):
 
 # ✅ Define the base model and adapter paths
 base_model_path = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"  # Ensure this is downloaded
-adapter_path = "C:/Users/KIIT/Documents/finalproject (4)/finalproject (3)/finalproject/model/fine_tuned_tinyllama_updatedfinal"
+adapter_path = "kiitedubuddy/finalproject/model/fine_tuned_tinyllama_updatedfinal"
 
 # ✅ Load the base model
 print("🚀 Loading the base TinyLlama model...")
