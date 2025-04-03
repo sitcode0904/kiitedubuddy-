@@ -1,0 +1,6 @@
+In today's fast-paced academic environment, students often struggle to gather well-organized and insightful study materials, especially when it comes to previous year question papers and important topics. Recognizing this common challenge, KIIT EduBuddy has been developed as a smart academic assistant tailored to meet the needs of both students and educators. By utilizing the power of advanced Natural Language Processing (NLP) and machine learning techniques, EduBuddy streamlines the process of accessing categorized, insightful, and exam-oriented content.
+
+The system is built upon a fine-tuned language model, trained on curated exam datasets to ensure accurate and context-aware responses. In addition to standard search capabilities, EduBuddy offers features like downloadable content, personalized history, bookmarking of frequently used resources, and even voice-enabled interaction for a more engaging and user-friendly experience.
+
+
+The core objective of EduBuddy is to enhance learning outcomes by providing students with quick access to topic-wise frequently asked questions, conceptual and application-based queries, and data-driven insights drawn from past examinations. Simultaneously, it assists faculty members by identifying recurring question trends, which can significantly ease the question paper creation process.
