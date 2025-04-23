@@ -35,7 +35,8 @@ Visualization	Matplotlib, Seaborn, WordCloud
 Storage	SQLite
 IDEs	VS Code, Google Colab, Jupyter
 Hosting (Future)	Cloud Platforms (TBD)
-Installation & Usage
+
+Installation & Usage:
 Clone the Repository
 bash
 Copy
@@ -57,31 +58,31 @@ Access in Browser
 Open http://localhost:5000 in your web browser.
 
 Testing:
-Test Case ID	Test Description	Expected Outcome
-T01	Query Handling	Relevant questions returned
-T02	File Download	Downloads in chosen format work correctly
-T03	Model Accuracy Test	≥ 90% accuracy on known inputs
-T04	UI Responsiveness	Works on all screen sizes
-T05	Frontend-Backend Integration	Smooth communication between layers
+Test Case ID	Test Description	Expected Outcome.
+T01	Query Handling	Relevant questions returned.
+T02	File Download	Downloads in chosen format work correctly.
+T03	Model Accuracy Test	≥ 90% accuracy on known inputs.
+T04	UI Responsiveness	Works on all screen sizes.
+T05	Frontend-Backend Integration	Smooth communication between layers.
 
 Performance Highlights:
-Achieved optimized performance using TinyLlama model for CPU-only environments
-Integrated real-time analytics for question trend visualization
-Maintained < 2-second response latency for most queries
+Achieved optimized performance using TinyLlama model for CPU-only environments.
+Integrated real-time analytics for question trend visualization.
+Maintained < 2-second response latency for most queries.
 
 Future Scope:
-Dual views for Students & Teachers
-GPU-backed LLM integration (Falcon, DeepSeek)
-AI-generated mock tests & topic-wise study plans
-OCR-based document input from handwritten notes
-Cloud deployment and mobile optimization
-Collaborative study groups with shared chat features
+Dual views for Students & Teachers,
+GPU-backed LLM integration (Falcon, DeepSeek),
+AI-generated mock tests & topic-wise study plans,
+OCR-based document input from handwritten notes,
+Cloud deployment and mobile optimization,
+Collaborative study groups with shared chat features.
 
 Contributors:
-Abhishree Bhadra
-Ananya Srivastava
-Ananya Dash 
-Uttkarsh Anand
+Abhishree Bhadra,
+Ananya Srivastava,
+Ananya Dash,
+Uttkarsh Anand.
 
 License:
 This project is developed as a part of the academic curriculum under KIIT University and is subject to educational use. For collaboration or licensing inquiries, please contact the project contributors.
